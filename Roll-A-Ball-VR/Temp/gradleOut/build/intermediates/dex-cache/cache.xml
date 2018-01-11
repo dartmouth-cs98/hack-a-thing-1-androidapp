@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/James/Roll-A-Ball-VR/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="997bed8c5290bdbae5c8767ba09af501f19e1c08">
+        <dex dex="/Users/James/Roll-A-Ball-VR/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_c1a7e6ea9867f26881b01c3d38e4114bce626171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/James/.android/build-cache/fbb3b4e414e145bed9d8c002d5efbd7180f13a6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ee480f74e93a3d7f1cb226e86a6ef435e7fbb05f">
+        <dex dex="/Users/James/Roll-A-Ball-VR/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_eb37603f8261935ab2a90de26c4334bb510dd64a.jar" />
+    </item>
+
+</items>
